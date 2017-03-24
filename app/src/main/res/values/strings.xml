@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YouTube videos loader</string>
+
+    <string-array name="search_array"></string-array>
+</resources>
